@@ -826,6 +826,10 @@ th {
     float: left;
     font-size: 20px;
 }
+.social .contactMail{
+    margin-top: 10px;
+    line-height: 25px;
+}
 
 .contact .socials a {
     color: white;
